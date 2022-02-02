@@ -23,22 +23,3 @@
 Допускает проприетарное коммерческое использование ПО. Для ПО, выпущенного под этой лицензией, допускается встраивание в проприетарные коммерческие продукты. Работы, основанные на таком ПО, даже могут распространяться под проприетарными лицензиями (но всё же обязаны соответствовать требованиям лицензии).
 ### 9. zLib
 Лицензия пердполагает: снятие ответственности с авторов за проблемы, связанные с его использованием, запрет на присваивание авторства оригинального продукта, изменённые версии не должны выдаваться за оригинал, уведомление о лицензии не должно убираться из пакетов с исходными текстами.
-### 10. 
-### 11. 
-### 12. 
-Academic Free License v3.0	afl-3.0
-Artistic license 2.0	artistic-2.0
-Boost Software License 1.0	bsl-1.0
-Creative Commons Attribution Share Alike 4.0	cc-by-sa-4.0
-Do What The F*ck You Want To Public License	wtfpl
-Educational Community License v2.0	ecl-2.0
-Eclipse Public License 2.0	epl-2.0
-European Union Public License 1.1	eupl-1.1
-ISC	isc
-LaTeX Project Public License v1.3c	lppl-1.3c
-Microsoft Public License	ms-pl
-Open Software License 3.0	osl-3.0
-PostgreSQL License	postgresql
-SIL Open Font License 1.1	ofl-1.1
-University of Illinois/NCSA Open Source License	ncsa
-zLib License	zlib
